@@ -11,6 +11,7 @@
     "dark": "GitHub Dark",
   },
   "auto_install_extensions": {
+    "github-theme": true,
     "material-icon-theme": true,
     "html": true,
     "dockerfile": true,
