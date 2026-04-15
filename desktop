@@ -4,13 +4,12 @@ obs-studio
 libreoffice
 vlc
 gromit-mpx
-gnome-boxes
 extension-manager
 gnome-tweaks
 
 [snap]
-eyedropper
-gradia
-rnote
-bitwarden
-marktex
+xournalpp
+
+
+[Manual]
+Obsidain

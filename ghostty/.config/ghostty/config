@@ -1,12 +1,13 @@
-font-family = 0xProto Nerd Font
+font-family = JetBrainsMono NF
 font-size = 13
 theme = GitHub Dark
 window-theme= ghostty
+font-style = Regular 
 gtk-titlebar = false
 window-padding-y = 10
 window-padding-x = 10
-window-height=48
-window-width=170
+window-height=44
+window-width=179
 cursor-style= block
 cursor-style-blink = false
 shell-integration-features = no-cursor
