@@ -101,4 +101,4 @@ alias wt='curl wttr.in'
 
 alias journal='mkdir -p ~/journal/$(date +%Y) && nvim ~/journal/$(date +%Y)/$(date +%A-%d-%B).md'
 alias y='yazi' 
-
+alias win11='docker compose -f /home/iislamgom3a/Work/docker-files/win_11.yml up'
