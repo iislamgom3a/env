@@ -11,6 +11,7 @@ return {
 			"docker-language-server",
 			"dockerfile-language-server",
 			"css-lsp",
+			"clangd",
 		},
 	},
 }
