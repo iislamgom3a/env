@@ -2,7 +2,6 @@
 curl
 git
 zsh
-starship
 tmux
 gh
 btop
@@ -24,3 +23,4 @@ zsh extestions (syntx-highlighting, autosuggestions)
 tmux-tpm
 ghostty
 lazydocker
+starship

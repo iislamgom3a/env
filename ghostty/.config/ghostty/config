@@ -1,5 +1,5 @@
 font-family = JetBrainsMono NF
-font-size = 13
+font-size = 15
 theme = GitHub Dark
 window-theme= ghostty
 font-style = Regular 
@@ -7,13 +7,9 @@ gtk-titlebar = false
 window-padding-y = 10
 window-padding-x = 10
 window-height=44
-window-width=179
+window-width=157
 cursor-style= block
 cursor-style-blink = false
 shell-integration-features = no-cursor
 auto-update = check
 mouse-scroll-multiplier = 0.97
-
-
-
-
